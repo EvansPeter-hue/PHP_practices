@@ -29,5 +29,8 @@ print "</p>";
     ************
 </pre>
 
+<li><a href="http://localhost:8080/Assignment/fail.php">Click here to see the error settlings</a></li>
+<li><a href="http://localhost:8080/Assignment/check.php">Click here to cause a traceback</a></li>
+
 </body>
 </html>

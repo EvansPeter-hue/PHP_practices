@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Welcome to PHP Practice!</h1>
-    <p>This is a simple PHP practice file.</p>
+    <p>This is a simple PHP practice file.</p> 
 </body>
 </html>
 
